@@ -49,3 +49,51 @@ header{
     border-color: white;
     border: 1px black solid;
 } 
+
+.li-w-w-w li:before{
+    content: normal !important;
+}
+
+ul.li-w-w-w{
+    padding: 0;
+    margin: 0;
+}
+
+li.list-inline-item.col-3{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-li-w-w-w{
+    color: white;
+}
+
+.nav-w-w-d{
+    padding:5px;
+}
+
+div.row{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+div.col-9.row-6{
+    padding-left: 15px;
+}
+
+div.w-w-w-text{
+    margin-bottom: 15px;
+}
+
+div#maintext.w-w-w-sidebar{
+    height: 275px;
+}
+
+li.col-3{
+    padding-left: 0;
+    margin-right: 8%;
+}
+
+p.text-uppercase{
+    margin-top:16px;
+}
