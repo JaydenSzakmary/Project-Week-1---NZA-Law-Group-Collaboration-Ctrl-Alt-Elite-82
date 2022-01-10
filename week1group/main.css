@@ -1,0 +1,52 @@
+body{
+    background-image: url("images/nza_background.jpg");
+    background-position: center center; 
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;    
+     align-items: center;
+    
+}
+.body{
+    background-color: rgb(255, 255, 255);
+    border-style: ridge;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+nav{
+    border-style: solid;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-left-color: white;
+    border-right-color: white;
+}
+.top{
+    border-style: solid;
+    border-top-color:white;
+    border-bottom-color:white;
+    border-left-color: lightgray;
+    border-right-color: lightgray;
+    border-width: 1px;
+}
+ul {
+    list-style-type: none;
+    color:#000000;
+  }
+  ul li:before {
+    content: '\2014';
+    position: absolute;
+    margin-left: -10px;
+  }
+header{
+    height: 150px;
+    display: flex;
+    justify-content: space-between!important;
+}
+#maintext{
+    background-image: url(images/nav_side_sub.jpg);
+    background-size: cover;
+    border-color: white;
+    border: 1px black solid;
+
+} 
