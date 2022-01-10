@@ -6,3 +6,4 @@ Zak Roterman: Who We Are
 Kristina Donaldson:
    what-we-do.html
    where-we-work.html
+Jayden Szakmary: Outline
