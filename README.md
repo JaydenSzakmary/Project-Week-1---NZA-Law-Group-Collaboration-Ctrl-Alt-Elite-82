@@ -3,4 +3,6 @@
 
 Tilahun Sema: Contact Us
 Zak Roterman: Who We Are
-Kristina Donaldson:News & Events, Where We Work
+Kristina Donaldson:
+   what-we-do.html
+   where-we-work.html
